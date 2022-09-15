@@ -34,6 +34,8 @@
 
 **Functional Day** : NoFunc(Non Functional Hours),  Fun(Functional hours)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
 <h2> :floppy_disk: Data Pipeline</h2>
 
 ● Exploratory Data Analysis (EDA): In this part we have done some EDA on the features to see the trend.
@@ -41,6 +43,8 @@
 ● Data Processing: In this part we went through each attributes and encoded the categorical features.
 
 ● Model Creation: Finally in this part we created the various models. These various models are being analysed and we tried to study various models so as to get the best performing model for our project.
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :floppy_disk: Project Files Description</h2>
 
@@ -69,15 +73,16 @@
 <li>ADABoost Regression</li>
 <li>Gradient Boosting</li>
 <li>XGBoost</li>
+<p>gradient boost and XGBoost had the highest accuracy of 89.23 % and 89 % respectively.</p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :clipboard: Execution Instruction</h2>
+<h2> :clipboard: Future Work</h2>
 <p> </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2> :Conclusion</h2>
+<h2>Conclusion</h2>
 <p>As we can see the total amount of bike Rentals increases with the temperature per month. Whereas it seems that the rentals are independent of the wind 
  speed and the humidity, because they are almost constant over the months. This also confirms on the one hand the high correlation between rentals
 and temperature and on the other hand that nice weather could be a good predictor. So people mainly rent bikes on nice days and nice temperature. 
