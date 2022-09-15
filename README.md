@@ -78,7 +78,7 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Future Work</h2>
-<p> To further increase the performance of the model’s external parameters can be included which affects the bike usage. Moreover the study scope allows it to be applied to other modes of transportation. </p>
+<p> It is useful in the full design of the system, including the location of bike-sharing stations and in the dimension of the fleet, as well as in the scheduling of the investments. Further work can include the consideration of other socio-economic characteristics, such as population density,  job density, retail job density, commute trip, reduction companies, tourist attractions, parks/recreation areas, topography, regional transit stations, bicycle friendly streets, streets with bicycle lanes and local transit stops. To further increase the performance of the model’s external parameters can be included which affects the bike usage. Moreover the study scope allows it to be applied to other modes of transportation. </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
