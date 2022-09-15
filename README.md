@@ -78,11 +78,11 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> :clipboard: Future Work</h2>
-<p> </p>
+<p> To further increase the performance of the model’s external parameters can be included which affects the bike usage. Moreover the study scope allows it to be applied to other modes of transportation. </p>
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-<h2>Conclusion</h2>
+<h2>:floppy_disk: Conclusion</h2>
 <p>As we can see the total amount of bike Rentals increases with the temperature per month. Whereas it seems that the rentals are independent of the wind 
  speed and the humidity, because they are almost constant over the months. This also confirms on the one hand the high correlation between rentals
 and temperature and on the other hand that nice weather could be a good predictor. So people mainly rent bikes on nice days and nice temperature. 
