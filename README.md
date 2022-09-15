@@ -1,7 +1,7 @@
 # Seoul-Bike-Sharing-Demand-Prediction
 
 <h><img src="https://media.giphy.com/media/26gJAJQ2OVynPuTYY/giphy.gif" align="centre"></h>
-<h1 align="center"> Seoul Bike Sharing Demand Prediction </h1>
+<h1 align="center"> Seoul Bike Sharing Demand Prediction - ML Regression </h1>
 <h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
 
 <p>Currently Rental bikes are introduced in many urban cities for the enhancement of mobility comfort. It is important to make the rental bike available and accessible to the public at the right time as it lessens the waiting time. Eventually, providing the city with a stable supply of rental bikes becomes a major concern. The crucial part is the prediction of bike count required at each hour for the stable supply of rental bikes.</p>
